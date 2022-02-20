@@ -98,7 +98,7 @@ async def play(_, message: Message):
     global que
     global useer
 
-    lel = await message.reply("🔎 **ғɪɴᴅɪɴɢ ᴛʜᴇ sᴏɴɢ 🅳︎ᴇᴍᴏɴ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ...**")
+    lel = await message.reply("🔎 **ғɪɴᴅɪɴɢ ᴛʜᴇ sᴏɴɢ ᴍᴀʀʀᴋ ᴍᴜsɪᴄ ʙᴏᴛ ʙᴀʙʏ...**")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -118,7 +118,7 @@ async def play(_, message: Message):
                     invitelink = await _.export_chat_invite_link(chid)
                 except:
                     await lel.edit(
-                        "<b>ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴏғ ʏᴏᴜʀ ɢʀᴏᴜᴘ ғɪʀsᴛ 🅳︎ᴇᴍᴏɴ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ</b>")
+                        "<b>ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴏғ ʏᴏᴜʀ ɢʀᴏᴜᴘ ғɪʀsᴛ ᴍᴀʀʀᴋ ᴍᴜsɪᴄ ʙᴏᴛ ʙᴀʙʏ</b>")
                     return
 
                 try:
@@ -163,21 +163,14 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/Demon_Creators")
+                            url=f"https://t.me/marrkchannel")
                ],
                [
-                    InlineKeyboardButton(
-                            text="Dɪsᴄᴜss",
-                            url=f"https://t.me/Demon_Support_Group"),
+                   
                             
                     InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/World_FriendShip_Zone")
-               ],
-               [
-                        InlineKeyboardButton(
-                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/MovieFlix_Movies_Group")
+                            url=f"https://t.me/marrkmusic")
                    
                 ]
             ]
@@ -216,22 +209,14 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/Demon_Creators")
+                            url=f"https://t.me/marrkchannel")
                ],
                [
-                    InlineKeyboardButton(
-                            text="Dɪsᴄᴜss",
-                            url=f"https://t.me/Demon_Support_Group"),
-                            
+                     
                     InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/World_FriendShip_Zone")
-               ],
-               [
-                        InlineKeyboardButton(
-                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/MovieFlix_Movies_Group")
-                   
+                            url=f"https://t.me/marrkmusic")
+               
                 ]
             ]
         )
@@ -246,22 +231,14 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/Demon_Creators")
+                            url=f"https://t.me/marrkchannel")
                ],
                [
-                    InlineKeyboardButton(
-                            text="Dɪsᴄᴜss",
-                            url=f"https://t.me/Demon_Support_Group"),
-                            
+                     
                     InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/World_FriendShip_Zone")
-               ],
-               [
-                        InlineKeyboardButton(
-                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/MovieFlix_Movies_Group")
-                   
+                            url=f"https://t.me/marrkmusic")
+              
                 ]
             ]
         )
@@ -314,22 +291,14 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/Demon_Creators")
+                            url=f"https://t.me/marrkchannel")
                ],
                [
-                    InlineKeyboardButton(
-                            text="Dɪsᴄᴜss",
-                            url=f"https://t.me/Demon_Support_Group"),
-                            
+                     
                     InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/World_FriendShip_Zone")
-               ],
-               [
-                        InlineKeyboardButton(
-                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/MovieFlix_Movies_Group")
-                   
+                            url=f"https://t.me/marrkmusic")
+                
                 ]
             ]
         )
@@ -350,7 +319,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****🅳︎ᴇᴍᴏɴ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ sᴏɴɢ ᴘᴏsɪᴛɪᴏɴ** {}**".format(position),
+            caption="****ᴍᴀʀʀᴋ ᴍᴜsɪᴄ ʙᴏᴛ sᴏɴɢ ᴘᴏsɪᴛɪᴏɴ** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -367,7 +336,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**🅳︎ᴇᴍᴏɴ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ ᴘʟᴀʏɪɴɢ ᴀᴛ `{}`...**".format(
+            caption="**ᴍᴀʀʀᴋ ᴍᴜsɪᴄ ʙᴏᴛ ɴᴏᴡ ᴘʟᴀʏɪɴɢ ᴀᴛ `{}`...**".format(
         message.chat.title
         ), )
 
