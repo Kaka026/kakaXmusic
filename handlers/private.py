@@ -11,12 +11,12 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"",
-        caption="""[☞](https://te.legra.ph/file/d26d3885b9c592d167952.jpg) 
+        caption="""**[☞](https://te.legra.ph/file/d26d3885b9c592d167952.jpg) 
 ✰ʜᴇʟʟᴏ...
 ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ ɪs ᴛʜᴇ ɴᴇxᴛ ʟᴇᴠᴇʟ ᴏғ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛʜᴀᴛ ʜᴀs ʙᴇsᴛ ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴀɴᴅ ᴛʜᴇ ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ sᴍᴀsʜ ᴛʜᴇᴍ ᴏғ ᴀʟʟ sᴇʀᴠᴇʀ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴀss...
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ✰ ᴍᴀɴᴀɢᴇᴅ ʙʏ:-[•|ᴄʀᴀxʏ|🇮🇳|•](https://t.me/craxy_026)
-➖➖➖➖➖➖➖➖➖➖➖➖➖""",
+➖➖➖➖➖➖➖➖➖➖➖➖➖**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
