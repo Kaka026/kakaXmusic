@@ -2,7 +2,7 @@
 
 ### ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ ɪs ᴛʜᴇ ɴᴇxᴛ ʟᴇᴠᴇʟ ᴏғ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛʜᴀᴛ ʜᴀs ʙᴇsᴛ ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴀɴᴅ ᴛʜᴇ ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ sᴍᴀsʜ ᴛʜᴇᴍ ᴏғ ᴀʟʟ sᴇʀᴠᴇʀ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴀss...
 
-<p align="center"><a href="https://t.me/marrkmusic"><img src="https://te.legra.ph/file/d26d3885b9c592d167952.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/marrkmusic"><img src="https://te.legra.ph/file/48d96cabcacd5c078fbfd.jpg" width="400"></a></p>
 
 
 
