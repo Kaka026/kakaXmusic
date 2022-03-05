@@ -19,7 +19,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✰ 🍃ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🤤☺️ ✰", url=f"https://t.me/@kaka_music_026_bot?startgroup=true")
+                        "✰ 🍃ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💔 ✰", url="https://t.me/kaka_music_026_bot?startgroup=true")
                 ]
                 
            ]
@@ -36,7 +36,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ʀᴇᴘᴏ ᴀᴘᴘᴇᴀʟ ᴏɴ ᴛʜᴇsᴇ ɢʀᴏᴜᴘ ", url=f"https://t.me/marrkmusic")
+                        "ʀᴇᴘᴏ ᴀᴘᴘᴇᴀʟ ᴏɴ ᴛʜᴇsᴇ ɢʀᴏᴜᴘ ", url="https://t.me/marrkmusic")
                 ]
             ]
         ),
