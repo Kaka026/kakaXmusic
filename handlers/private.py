@@ -27,11 +27,11 @@ async def start_(client: Client, message: Message):
     )
     
 
-@Client.on_message(command(["repo", "channel"]) & filters.group & ~filters.edited)
+@Client.on_message(command(["ping", "live"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/56a10043e8961ef58c345.jpg",
-        caption=f"""""",
+        caption=f"""ɪ'ᴍ ᴀʟɪᴠᴇ ᴊᴀɴᴇᴍᴀɴ 🖤""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
